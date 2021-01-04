@@ -1,6 +1,6 @@
 /.ipynb_checkpoints
 /.vscode
 /logs
-
+Checkpoint/*.h5
 /venv
 s41598-018-38343-3.pdf
