@@ -102,7 +102,7 @@ tensorboard --logdir logs/fit
 ```
 ## Authors
 
-* [Abdelati Elasri](https://github.com/iElasri)
 * [El Houcine ES SANHAJI](https://github.com/essanhaji)
+* [ABDELATI ELASRI](https://github.com/iElasri)
 
 ## Thank you.
