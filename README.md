@@ -68,13 +68,12 @@ Then open the browser and tap [``http://localhost:8888/lab``](http://localhost:8
 ## Training the model
 Note in the notebook we add a clause to test if the model already exists in the path `\Checkpoint` before we create and compile a new one so that we launch training many times for a small number of epochs.
 
-You don't need to download the model if you want to retrain the model from the beginning.
+You don't need to download the pre-trained weight if you want to retrain the model from the beginning.
 
 
 ## Authors
 * [Abdelati Elasri](https://github.com/iElasri)
 * [El Houcine ES SANHAJI](https://github.com/essanhaji)
 
-<br>
 
 ## Thank you.
