@@ -4,11 +4,12 @@
 
 ## Summary
 
-The project is a multiclass weed species classification model build using deep learning algorithms. our model power weed control robots to control weed species in farms to boost productivity and personalize the fertilizers.
+The project is a multiclass weed species classification model built using deep learning algorithms As a replication of the results of this paper [DeepWeeds: A Multiclass Weed Species Image Dataset for Deep Learning](https://www.nature.com/articles/s41598%20018%2038343%203).
 
 ## Dataset 
 
-The dataset used in this project is the DeepWeed provided by [DeepWeeds: A Multiclass Weed Species Image Dataset for Deep Learning](https://www.nature.com/articles/s41598%20018%2038343%203) paper which consists of 17,509 labelled images of eight nationally significant weed species native to eight locations across northern Australia.
+- The dataset used in this project is the DeepWeed provided by the paper Authors and made available throught [TensorFlow Datasets](https://www.tensorflow.org/datasets/catalog/deep_weeds).
+- deep_weeds DataSet consists of 17,509 labelled images of eight nationally significant weed species native to eight locations across northern Australia.
 
 
 ## Model Architecture
