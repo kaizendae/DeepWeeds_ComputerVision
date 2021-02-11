@@ -14,7 +14,8 @@ The project is a multiclass weed species classification model built using deep l
 
 ## Model Architecture
 
-- Pretrained [ResNet50](https://arxiv.org/abs/1605.07146) with Imagenet weights.
+- Pretrained [ResNet50](https://keras.io/api/applications/) with Imagenet weights.
+- Pretrained [InceptionV3](https://keras.io/api/applications/) with Imagenet weights.
 - Adam Optimizer with Expotetial Learning Rate decay.
 
 
