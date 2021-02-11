@@ -76,7 +76,7 @@ Note that is better to create a new virtual environment and install requirements
   !pip install -r requirements.txt
   ```
 
-- Download the pre-trained weight [here](https://drive.google.com/file/d/1yukW03-cSyICnoyD9astn4EdeaAEJFBF/view?usp=sharing) then add it to `\Checkpoint` folder.
+- Download the pre-trained weights [here](https://drive.google.com/drive/folders/1s2k2Zb3Fgw9JiEQR8hMvnjwSJDGaRZZq?usp=sharing) then place them to `\Checkpoint` folder.
 
 ## How to run it
 
@@ -94,7 +94,7 @@ If you use jupyter Notebook you know what to do.
 ## Training the model
 
 - You can either download the pretrained weights or Run the re-train the model.
-- find pretrained weights of the model [here](https://drive.google.com/file/d/1yukW03-cSyICnoyD9astn4EdeaAEJFBF/view?usp=sharing)
+- find pretrained weights of the model [here](https://drive.google.com/drive/folders/1s2k2Zb3Fgw9JiEQR8hMvnjwSJDGaRZZq?usp=sharing)
 
 
 

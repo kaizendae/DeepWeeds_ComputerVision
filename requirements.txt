@@ -4,5 +4,3 @@ tfds-nightly
 matplotlib
 scikit-learn
 livelossplot
-jupyterlab-widgets
-ipywidgets
